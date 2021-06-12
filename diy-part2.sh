@@ -12,4 +12,5 @@
 
 # Modify default IP
 #sed -i 's/192.168.1.1/192.168.50.5/g' package/base-files/files/bin/config_generate
-git clone https://github.com/wggglggg/luci-app-poweroff package/luci-app-poweroff
+git clone https://github.com/wggglggg/luci-app-poweroff  package/luci-app-poweroff
+git clone https://github.com/wggglggg/luci-app-poweroff  lede/package/luci-app-poweroff
